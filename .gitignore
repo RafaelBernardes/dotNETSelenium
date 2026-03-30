@@ -23,3 +23,7 @@ _ReSharper*/
 
 # Environment
 .env
+*.slnx
+/dotNETSelenium/bin/Debug/net8.0/dotNETSelenium.dll
+/dotNETSelenium/bin/Debug/net8.0/dotNETSelenium.exe
+/dotNETSelenium/bin/Debug/net8.0/dotNETSelenium.pdb
